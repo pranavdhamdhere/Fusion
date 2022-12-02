@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 				 plugin= {"pretty", "html:Report2"},
 				 dryRun= false,
 				 monochrome= false,
-				 tags= ("@SmokeTest1")
+				 tags= ("@SmokeTest2")
 )
 public class Runner 				
 {		
